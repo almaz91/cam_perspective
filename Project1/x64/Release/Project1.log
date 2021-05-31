@@ -1,0 +1,2 @@
+﻿  Source.cpp
+Source.cpp(2): fatal error C1083: Не удается открыть файл включение: opencv2/highgui/highgui.hpp: No such file or directory,
